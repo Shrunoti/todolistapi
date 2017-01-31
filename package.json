@@ -1,0 +1,29 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTfultodolist",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shrunoti/todolistapi.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Shrunoti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shrunoti/todolistapi/issues"
+  },
+  "homepage": "https://github.com/Shrunoti/todolistapi#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongoose": "^4.8.0"
+  }
+}
